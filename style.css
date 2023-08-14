@@ -1,0 +1,200 @@
+body{
+    font-family: "Open Sans Regular";
+    font-size: 16px;
+    width: 100%;
+    height: 100%; 
+}
+
+h1{
+    font-family: "Nunito", sans-serif;
+    font-weight: 900;
+    font-size: 40px;
+}
+
+h3{
+    font-family: "Nunito";
+    font-weight: 200;
+    font-size: 19px;
+}
+
+h2{
+    font-family: "Nunito";
+    font-weight: 900;
+    font-size: 23px;
+}
+
+
+h4{
+    font-family: "Nunito";
+    font-weight: 200;
+    font-size: 20px;
+}
+
+#pre-titulos{
+    font-family: "Nunito Extra Light";
+    font-size: 12px;
+}
+
+a{
+    color: white;
+    font-family: "Nunito Bold";
+    font-size: 16px;
+}
+
+.my-button {
+    font-family: "Nunito", sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    background-color: transparent;
+    border-radius: 20px;
+    padding: 5px 10px;
+  }
+  
+
+
+#banner-principal{
+    position: relative;
+    width: 100%;
+    height: 100%;  
+    font-size: 40px;
+}
+
+#bajada-banner-principal{
+    font-family: "Nunito";
+    font-weight:lighter ;
+    color: white;
+    font-size: 22px;
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#banner-secundario{
+    position: relative;
+    width: 100%;
+    height: 100%;  
+    font-size: 40px;
+}
+
+
+
+#bajada-banner-secundario{
+    font-family:  "Nunito", sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 24px;
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.boton-comenzar {
+    font-family: "Nunito", sans-serif;
+    font-weight: bold;
+    color: white;
+    border-color: transparent;
+    font-size: 16px;
+    background-color: #E21982;
+    border-radius: 20px;
+    padding: 5px 10px;
+  }
+
+.boton-ppal{
+    font-family: "Nunito", sans-serif;
+    font-weight: bold;
+    color: rgb(26, 26, 99);
+    border-color: transparent;
+    font-size: 18px;
+    background-color: transparent;
+    border-radius: 20px;
+    padding: 5px 15px;
+}
+
+
+#quienes-somos {
+    background-color: #ebc1d6;
+    font-family: "Nunito Extra Light";
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #quienes-somos .container {
+    width: 100%;
+    padding: 0;
+  }
+
+#buscas-ayuda{
+    background-color: #fce7e5;
+}  
+
+
+#buscas-ayuda .container {
+    width: 100%;
+    padding: 0;
+  }
+
+p{
+    font-family: "Open Sans";
+    font-weight: bold;
+    font-size: 14px;
+    color: gray;
+}
+
+#brindar-ayuda{
+    background-color: #E21982;
+}
+
+
+#titulo-sumarte{
+    /*Título “Si brindas ayuda y te interesa sumarte”*/
+    font-family:  "Nunito", sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 24px;
+}
+
+
+#lista-preguntas select {
+    font-family: "Nunito", sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    height: 16%; 
+}
+
+#footer{
+    font-size: 14px;
+    color: white;
+    background-color: #30387e;
+}
+
+.linea-horizontal {
+    border: none;
+    border-top: 2px solid rgb(230, 230, 230); /* Establece el color y grosor de la línea */
+    margin: 10px 0; /* Ajusta el margen superior e inferior de la línea */
+  }
+  
+
+.link-no-underline{
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+
+#copiright{
+    font-size: 12px;
+}
+
+#animate{
+    font-family: "Nunito", sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+#FAQs{
+    background-color: #ebc1d6;
+}
